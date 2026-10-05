@@ -34,12 +34,13 @@ Tenho interesse principalmente em **desenvolvimento web, sistemas, banco de dado
         />
     </a>
 
-    <a href="https://github.com/EnzoCoutinh0?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EnzoCoutinh0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+   <a href="https://github.com/EnzoCoutinh0?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Seguidores no GitHub"
+        src="https://img.shields.io/github/followers/EnzoCoutinh0?style=for-the-badge&label=Seguidores&logo=github"
+    />
+</a>
     </a>
 </p>
 
