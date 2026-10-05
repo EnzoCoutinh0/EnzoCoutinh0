@@ -3,7 +3,7 @@
 Me chamo Enzo Coutinho, tenho 20 anos e sou natural do Espirito Santo. Concluí o ensino médio no DR Silva Mello, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAESA. Sou apaixonado por tecnologia, hardware e inovação, sempre buscando aprender novas ferramentas, linguagens e soluções que possam transformar ideias em projetos reais.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="[https://github.com/EnzoCoutinh0?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
